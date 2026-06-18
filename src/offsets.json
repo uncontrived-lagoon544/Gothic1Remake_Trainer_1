@@ -1,0 +1,15 @@
+{
+    "module": "Gothic1Remake.exe",
+    "signatures": {
+        "oxygen": "48 8B 05 ?? ?? ?? ?? 48 85 C0 74 0F 48 8B 40 28",
+        "craft_requirement": "48 8B 0D ?? ?? ?? ?? 48 85 C9 74 12 80 79 30 00",
+        "ghost": "48 8B 15 ?? ?? ?? ?? 48 85 D2 74 10 80 7A 28 01",
+        "speed": "F3 0F 10 05 ?? ?? ?? ?? F3 0F 11 05 ?? ?? ?? ?? C3"
+    },
+    "offsets": {
+        "oxygen_offset": 0x4A2B8,
+        "craft_requirement_offset": 0x6F1A0,
+        "ghost_offset": 0x7C4D0,
+        "speed_offset": 0x9E2F0
+    }
+}
