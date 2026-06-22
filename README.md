@@ -84,3 +84,4 @@ If you find this guide and trainer useful, please **⭐ star this repository** �
 ## 🔑 Keywords
 
 `Gothic 1 Remake guide`, `Gothic Remake mods`, `Gothic 1 Remake cheats`, `Marvin Mode Gothic 2026`, `Gothic Remake FPS fix`, `Best faction Gothic 1`, `Gothic Remake builds`, `Old Camp vs New Camp`, `How to enable Marvin Mode Gothic 1 Remake`, `Gothic 1 Remake best early weapons location`, `Gothic Remake PC optimization guide`, `Gothic 1 Remake engine.ini tweaks Unreal Engine 5`, `Sect Camp templar build guide Gothic Remake`, `Gothic 1 Remake infinite ore glitch`, `How to fix stuttering Gothic 1 Remake PC`, `Gothic 1 Remake missable quests faction guide`, `Gothic Remake interactive map Khorinis`, `Best stats to level up first Gothic 1 Remake`, `Gothic 1 Remake Steam deck optimal settings`, `Gothic Remake all armor sets showcase`
+ 
